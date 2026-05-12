@@ -49,11 +49,21 @@ Backend and Full-Stack Developer focused on building robust applications with **
 
 ## Featured projects
 
-### Fashion Shop
-E-commerce backend project focused on scalable architecture, API design, database integration, and backend best practices.
+### Supermarket-API
+Python backend API project focused on supermarket-related resource management and practical API development.  
+🔗 [View repository](https://github.com/StevePeRe/supermarket-API)
 
-### Management API
-Backend API project centered on resource management, structured business logic, and clean service design.
+### ManagementApp-Python
+Task and management application migrated from Java to Python using FastAPI, applying best practices for backend development, clean structure, and API design.  
+🔗 [View repository](https://github.com/StevePeRe/ManagementApp-Python)
+
+### Fashion Shop API
+E-commerce backend project built with Java, focused on scalable architecture, REST API design, database integration, and backend best practices.  
+🔗 [View repository](https://github.com/StevePeRe/Fashion-Shop-API)
+
+### ManagementApp-FullStack
+Full-stack task management application designed to handle time-limited tasks, displaying their information and current status in a structured way.  
+🔗 [View repository](https://github.com/StevePeRe/ManagementApp-FullStack)
 
 ## What I'm working on
 
