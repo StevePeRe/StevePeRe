@@ -14,10 +14,9 @@ Backend and Full-Stack Developer focused on building robust applications with **
 
 ### Backend
 - Java
-- Spring Boot
+- Spring Boot + Spring MVC + Spring Security + Spring Cloud + Spring Data
 - Python
 - FastAPI
-- Flask
 - REST APIs
 - JPA / Hibernate
 - PostgreSQL
@@ -46,6 +45,7 @@ Backend and Full-Stack Developer focused on building robust applications with **
 - Hexagonal Architecture
 - CQRS
 - DDD
+- OpenCode
 
 ## Featured projects
 
